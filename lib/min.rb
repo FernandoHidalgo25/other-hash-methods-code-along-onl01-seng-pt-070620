@@ -8,6 +8,7 @@ require 'pry'
   grains: ["rice", "pasta"]
  }
 
+veggies = {"carrots", "broccoli", "cucumbers"}
 def get_the_min(groceries)
 groceries[:vegetable] = veggie
 veggie.min
