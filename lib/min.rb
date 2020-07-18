@@ -10,6 +10,5 @@ require 'pry'
 
 veggies = {"carrots", "broccoli", "cucumbers"}
 def get_the_min(groceries)
-groceries[:vegetable] = veggie
 veggie.min
 end
