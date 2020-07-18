@@ -8,7 +8,7 @@ require 'pry'
   grains: ["rice", "pasta"]
  }
 
-veggies = {"carrots", "broccoli", "cucumbers"}
-def get_the_min(veggies)
-veggies.min
+
+def get_the_min(groceries)
+
 end
