@@ -10,5 +10,5 @@ require 'pry'
 
 veggies = {"carrots", "broccoli", "cucumbers"}
 def get_the_min(veggies)
-veggie.min
+veggies.min
 end
